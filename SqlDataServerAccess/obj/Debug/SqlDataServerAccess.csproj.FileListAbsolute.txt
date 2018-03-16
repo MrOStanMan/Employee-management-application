@@ -1,0 +1,11 @@
+C:\Users\Oliver\Desktop\School\COMP 2614\COMP2614Assign06\SqlDataServerAccess\bin\Debug\SqlDataServerAccess.dll
+C:\Users\Oliver\Desktop\School\COMP 2614\COMP2614Assign06\SqlDataServerAccess\bin\Debug\SqlDataServerAccess.pdb
+C:\Users\Oliver\Desktop\School\COMP 2614\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\School\COMP 2614\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.dll
+C:\Users\Oliver\Desktop\School\COMP 2614\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.pdb
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\bin\Debug\SqlDataServerAccess.dll
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\bin\Debug\SqlDataServerAccess.pdb
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.dll
+C:\Users\Lucas\Desktop\School\BCIT\COMP 2614\COMP2614Final\COMP2614Assign06\SqlDataServerAccess\obj\Debug\SqlDataServerAccess.pdb
